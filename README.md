@@ -24,5 +24,7 @@ The name of the input file is up to the user. Convention is create-users.input
 
 ### Running the Script
 Set Permissions: You might need to give the script permission to execute. You can do this by : chmod +x create-users.py
+
 Using Python 3: This script requires Python 3. Double-check your Python 3 version: python3 --version
+
 Executing the Script: Navigate to the directory containing the script and input file. Then: sudo python3 create-users.py < create-users.input
